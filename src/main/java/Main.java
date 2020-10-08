@@ -81,13 +81,13 @@ public class Main {
             Product product1 = new Product("Coca Cola 0.25l", 1.5);
             Product product2 = new Product("Sprite 0.25l", 1.5);
             Product product3 = new Product("Fanta 0.25l", 1.5);
-            Product product4 = new Product("Snickers 100g", 1);
-            Product product5 = new Product("Prince Polo 50g", 1.2);
+            Product product4 = new Product("Orangina", 1);
+            Product product5 = new Product("7up", 1.2);
             Product product6 = new Product("Mineral Water 500ml", 1.3);
-            Product product7 = new Product("Rogal 7-days", 2);
+            Product product7 = new Product("coffe", 2);
             Product product8 = new Product("Sok pomarańczowy Cappy 0,2l", 2.5);
             Product product9 = new Product("Sok Jabłkowy Cappy 0,2l", 2.5);
-            Product product10 = new Product("Baton Twix 80g", 1);
+            Product product10 = new Product("Oranzada", 1);
             vendingMachine.addProduct(1, product1, 1);
             vendingMachine.addProduct(2, product2, 5);
             vendingMachine.addProduct(3, product3, 9);
